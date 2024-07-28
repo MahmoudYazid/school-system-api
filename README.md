@@ -12,7 +12,8 @@
 # technologies we will use
 
 1- Asp .net core
-2- auth by jwt
-3 - we will use CQRS AS PATTERN
-4 - SQL AS DB
-5 - LINQ
+
+2- auth by jwt <br />
+3 - we will use CQRS AS PATTERN <br />
+4 - SQL AS DB <br />
+5 - LINQ <br />
