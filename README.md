@@ -8,3 +8,11 @@
 
 # then we should convert this erd to schema
 ![schoolSystemschema](https://github.com/user-attachments/assets/1c01fa5c-3d9c-4b94-862a-fef4bd395f0b)
+
+# technologies we will use
+
+1- Asp .net core
+2- auth by jwt
+3 - we will use CQRS AS PATTERN
+4 - SQL AS DB
+5 - LINQ
