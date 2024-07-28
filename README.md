@@ -4,3 +4,4 @@
 
 
 # then we should drow the erd
+![schoolSystem drawio](https://github.com/user-attachments/assets/20b65364-ebaa-4c9d-90fc-a51c4f090ba4)
