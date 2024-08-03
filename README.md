@@ -7,6 +7,7 @@
 ![schoolSystem drawio](https://github.com/user-attachments/assets/20b65364-ebaa-4c9d-90fc-a51c4f090ba4)
 
 # then we should convert this erd to schema
+![my schema](https://github.com/user-attachments/assets/f23bd1ee-3c0b-4bc0-bce5-146f4d8e6b4b)
 
 
 # technologies we will use
